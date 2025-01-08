@@ -1,6 +1,6 @@
 *These workshops have been deprecated. For current serverless workshops, please visit: https://serverlessland.com/learn?type=Workshops*
 
----
+--------
 
 # Wild Rydes Serverless Workshops
 
